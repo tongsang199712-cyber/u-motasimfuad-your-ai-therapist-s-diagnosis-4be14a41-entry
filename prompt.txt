@@ -1,0 +1,1 @@
+Write the funniest one-line diagnosis an AI therapist gives its human, 200 characters or less. The program writes the line to /output/entry.txt.
